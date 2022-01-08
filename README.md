@@ -2,7 +2,7 @@
 - 👀 I’m interested in building things
 - 🌱 I’m currently learning PL/SQL
 - 💞️ I’m looking to collaborate on bicycles
-- 📫 How to reach me at my employer: CAAT Pension Plan
+- 📫 I can be reached at my employer: CAAT Pension Plan
 
 <!---
 jbpriede/jbpriede is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
